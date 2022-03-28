@@ -1,8 +1,8 @@
 namespace music_player
 {
-    public partial class Form1 : Form
+    public partial class MusicPlayer : Form
     {
-        public Form1()
+        public MusicPlayer()
         {
             InitializeComponent();
         }
